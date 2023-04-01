@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ask-nebula/static/css/main.6e04c83c.css",
+    "main.js": "/ask-nebula/static/js/main.a7eba92b.js",
+    "index.html": "/ask-nebula/index.html",
+    "main.6e04c83c.css.map": "/ask-nebula/static/css/main.6e04c83c.css.map",
+    "main.a7eba92b.js.map": "/ask-nebula/static/js/main.a7eba92b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e04c83c.css",
+    "static/js/main.a7eba92b.js"
+  ]
+}
