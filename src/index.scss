@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: auto;
+  max-height: 100vh;
+  p,
+  article,
+  span,
+  link {
+    font-family: 'Open Sans', sans-serif !important;
+  }
+  #root {
+    height: 100%;
+  }
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
